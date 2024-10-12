@@ -3,8 +3,6 @@
 
 This project focuses on creating a dynamic, futuristic **CyberCity** animation in Blender. The scene captures a neon-lit cityscape with an emphasis on detailed urban environments and atmospheric lighting.
 
-![CyberCity Animation Screenshot](./screenshots/cybercity-animation.png)
-
 ### Project Overview
 - **Status**: Finished
 - **Goal**: To design and animate a futuristic city scene with a cyberpunk aesthetic, featuring complex lighting and environmental details.
