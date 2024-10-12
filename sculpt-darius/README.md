@@ -34,7 +34,7 @@ You can check out the Rosa project [here](link_to_Rosa_directory). (to be added 
 - **Rigging**: Upcoming work includes creating a full-body armature and dynamic hair rig for smooth animations.
 - **Next Steps**: Sculpting additional details, rigging, and starting the texturing process. Preparing for animation tests and clothing simulations.
 
-For a detailed overview of this project, check out the corresponding project on GitHub: [Sculpt Darius]([(https://github.com/users/ux-fran/projects/56)]).
+For a detailed overview of this project, check out the corresponding project on GitHub: [Sculpt Darius](https://github.com/users/ux-fran/projects/56).
 
 ## Resources
 - Project Wiki (to be added soon)
