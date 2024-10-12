@@ -3,7 +3,7 @@
 
 This project focuses on designing a fun and cute gaming world for a music-based game using **Blender**. Inspired by playful, cartoony aesthetics, the project combines 3D modeling and animation techniques to create an engaging game environment.
 
-![Game World Screenshot](./screenshots/bax-music-world.png)
+![Game World Screenshot](./screenshots/bax-music-world.png) (soon to add)
 
 ### Project Overview
 - **Status**: Finished
@@ -19,10 +19,10 @@ This project focuses on designing a fun and cute gaming world for a music-based 
 
 ### Final Screenshots
 - **Final World Design**:
-  ![Final World Design](./screenshots/final-design.png)
+  ![Final World Design](./screenshots/final-design.png) (soon to add)
 
 - **In-Game Scene**:
-  ![In-Game Scene](./screenshots/ingame-final-scene.png)
+  ![In-Game Scene](./screenshots/ingame-final-scene.png) (soon to add)
 
 ### Resources & Links
 - **Project Blog Post**: [Creating a Cute Gaming World in Blender](https://www.fran43cg.com/blog/2024/07/24/creating-a-cute-gaming-world-in-blender/)
