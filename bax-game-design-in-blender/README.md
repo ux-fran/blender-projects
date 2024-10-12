@@ -3,7 +3,7 @@
 
 This project focuses on designing a fun and cute gaming world for a music-based game using **Blender**. Inspired by playful, cartoony aesthetics, the project combines 3D modeling and animation techniques to create an engaging game environment.
 
-![Game World Screenshot](./screenshots/bax-music-world.png) (soon to add)
+<img width="816" alt="image" src="https://github.com/user-attachments/assets/e6a2cf97-5239-4960-9eb4-a852dc22e0d7">
 
 ### Project Overview
 - **Status**: Finished
