@@ -22,7 +22,7 @@ This project focuses on creating a dynamic, futuristic **CyberCity** animation i
 ### Resources & Links
 - **Project Blog Post**: [How I Created My First CyberCity Animation in Blender](https://www.fran43cg.com/blog/2024/09/18/how-i-created-my-first-cybercity-animation-in-blender/)
 - **Inspiration**: [Cyberpunk Art and Visual References](#) (link to references or inspirations)
-- **Tools Used**: Blender 3D, Eevee Renderer, Photoshop for texture editing.
+- **Tools Used**: Blender 3D
 
 ### Credits
 - **Special Credit to Max Hay**: Max Hay’s tutorials and guidance were instrumental in this project. Visit his website: [Max Hay](https://maxhayart.com)
