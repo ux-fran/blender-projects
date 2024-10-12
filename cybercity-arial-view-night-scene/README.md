@@ -17,10 +17,7 @@ This project focuses on creating a dynamic, futuristic **CyberCity** animation i
 
 ### Final Screenshots
 - **Aerial View**:
-  ![Aerial View](./screenshots/cybercity-aerial-view.png)
-
-- **Street Level View**:
-  ![Street Level View](./screenshots/cybercity-street-view.png)
+  <img width="521" alt="image" src="https://github.com/user-attachments/assets/24e6bf25-e238-4281-831e-df69c8ca365d">
 
 ### Resources & Links
 - **Project Blog Post**: [How I Created My First CyberCity Animation in Blender](https://www.fran43cg.com/blog/2024/09/18/how-i-created-my-first-cybercity-animation-in-blender/)
