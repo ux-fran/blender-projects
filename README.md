@@ -1,2 +1,8 @@
-# blender-projects
-A collection of my Blender 3D projects, showcasing progress, project planning, and lessons learned along the way. Each project includes backlogs, resources, and key insights for others learning Blender. Educational content for beginners, with an emphasis on sharing knowledge and growth in 3D art.
+#Blender Projects by Fran 🎨 | Learning Blender, One Sculpt or Model at a Time
+This repository tracks my progress as I learn and create various 3D modeling projects using Blender. Each project folder contains project planning, progress updates, and lessons learned throughout the creative process.
+
+Projects: Detailed backlogs for each Blender project, tracking every step from concept to completion.
+Resources: Links to helpful tutorials, tools, and references I've used along the way.
+Lessons Learned: A wiki documenting key takeaways, mistakes, and insights from each project, aimed at helping others learning Blender.
+⚡ Note: All information is shared for educational purposes. If you use any insights or resources from this repository, please provide attribution to this repository.
+
