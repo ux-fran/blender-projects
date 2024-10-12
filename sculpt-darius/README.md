@@ -25,7 +25,7 @@ As part of this project, I'm using Darius as a way to deepen my skills in variou
 
 During this project, I took on a "side quest" to explore character creation in more depth by working on **Rosa the Anime Girl**. Through this project, I gained a better understanding of anatomy, topology, and rigging, and I'm applying the lessons learned back into the creation of Darius.
 
-You can check out the Rosa project [here](link_to_Rosa_directory).
+You can check out the Rosa project [here](link_to_Rosa_directory). (to be added soon)
 
 ### Process Overview (Ongoing)
 
@@ -34,9 +34,11 @@ You can check out the Rosa project [here](link_to_Rosa_directory).
 - **Rigging**: Upcoming work includes creating a full-body armature and dynamic hair rig for smooth animations.
 - **Next Steps**: Sculpting additional details, rigging, and starting the texturing process. Preparing for animation tests and clothing simulations.
 
-### Placeholder for Future Wiki
+For a detailed overview of this project, check out the corresponding project on GitHub: [Sculpt Darius](https://github.com/your-username/blender-projects/flower-model](https://github.com/users/ux-fran/projects/56)).
 
-For detailed documentation, progress notes, and tutorials related to the Darius project, please refer to the upcoming [Wiki](#) (to be added soon).
+## Resources
+- Project Wiki (to be added soon)
+- Blog Post (to be added soon)
 
 ---
 
