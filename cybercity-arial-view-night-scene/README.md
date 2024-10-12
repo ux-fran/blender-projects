@@ -17,13 +17,18 @@ This project focuses on creating a dynamic, futuristic **CyberCity** animation i
 
 ### Final Screenshots
 - **Aerial View**:
-<img width="531" alt="image" src="https://github.com/user-attachments/assets/d42d2f76-a010-4231-a407-6f54596d4144">
+  ![Aerial View](./screenshots/cybercity-aerial-view.png)
+
+- **Street Level View**:
+  ![Street Level View](./screenshots/cybercity-street-view.png)
 
 ### Resources & Links
 - **Project Blog Post**: [How I Created My First CyberCity Animation in Blender](https://www.fran43cg.com/blog/2024/09/18/how-i-created-my-first-cybercity-animation-in-blender/)
 - **Inspiration**: [Cyberpunk Art and Visual References](#) (link to references or inspirations)
 - **Tools Used**: Blender 3D, Eevee Renderer, Photoshop for texture editing.
 
+### Credits
+- **Special Credit to Max Hay**: Max Hay’s tutorials and guidance were instrumental in this project. Visit his website: [Max Hay](https://maxhayart.com)
+
 ### Final Notes
 The **CyberCity Animation** project was an exploration of creating complex, animated environments with a cyberpunk aesthetic. The focus was on combining atmospheric lighting, animation, and intricate architectural details to build a dynamic, futuristic cityscape. The project is complete, and it served as a valuable learning experience in Blender animation and scene composition.
-
