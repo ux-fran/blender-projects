@@ -1,3 +1,5 @@
+GO TO THE [BLENDER-PROJECTS WIKI](https://github.com/ux-fran/blender-projects-repo/wiki)
+
 ## Blender Projects
 #Blender Projects by Fran 🎨 | Learning Blender, One Sculpt or Model at a Time
 This repository tracks my progress as I learn and create various 3D modeling projects using Blender. Each project folder contains project planning, progress updates, and lessons learned throughout the creative process.
