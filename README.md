@@ -1,4 +1,4 @@
-# Welcome to the Blender Projects Hub! 🎨✨
+# Welcome to the Blender Projects Hub by Fran 43CG! 🎨✨
 
 This repository is the central hub for all my Blender projects. Here, I document my creative journey, showcase progress, and share insights as I develop my skills and explore the endless possibilities of 3D art. Whether you're here for inspiration, learning, or just curiosity—welcome aboard! 🚀
 
